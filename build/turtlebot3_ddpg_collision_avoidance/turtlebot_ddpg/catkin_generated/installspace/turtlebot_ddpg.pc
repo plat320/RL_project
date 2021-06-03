@@ -1,0 +1,8 @@
+prefix=/home/seonghun/RL_project/install
+
+Name: turtlebot_ddpg
+Description: Description of turtlebot_ddpg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_msgs
